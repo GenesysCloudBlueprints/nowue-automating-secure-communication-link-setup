@@ -11,7 +11,7 @@ summary: |
 
 ## Overview
 
-This blueprint automnates the manual steps required to establish a secure, OAuth-based integration between ServiceNow and Genesys Cloud into reusable, version-controlled Terraform modules. By leveraging the Genesys Cloud CX-as-Code and Terraform providers alongside OpenSSL, teams can deploy a consistent communication link in minutes.
+This blueprint automates the manual steps required to establish a secure, OAuth-based integration between ServiceNow and Genesys Cloud into reusable, version-controlled Terraform modules. By leveraging the Genesys Cloud CX-as-Code and Terraform providers alongside OpenSSL, teams can deploy a consistent communication link in minutes.
 
 ![Secure Link Flow](/blueprint/images/flow_archi.png)
 
