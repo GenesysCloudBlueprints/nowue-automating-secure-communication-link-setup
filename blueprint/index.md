@@ -1,6 +1,6 @@
 ---
 title: Unified Experience Secure Link Setup - ServiceNow & Genesys Cloud  
-author: moises.ruiz  
+author: iyin.raphael 
 indextype: blueprint  
 icon: blueprint  
 image: images/secure_link_flow.png  
